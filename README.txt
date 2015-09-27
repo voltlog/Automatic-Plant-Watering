@@ -4,4 +4,4 @@
 // Youtube https://www.youtube.com/c/voltlog
 // Released under MIT license http://opensource.org/licenses/mit-license.php
 
-This code requires the RTClib to be included.
+This code requires RTClib to be included.
