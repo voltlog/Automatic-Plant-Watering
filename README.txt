@@ -5,3 +5,5 @@
 // Released under MIT license http://opensource.org/licenses/mit-license.php
 
 This code requires RTClib to be included.
+
+sch directory contains EagleCAD schematic.
